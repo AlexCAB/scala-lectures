@@ -1,0 +1,31 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+
+# SBT
+target/
+project/target/
+
+# JetBrains IDE
+.idea/
+.bsp/
+
+# Applications
+*.app
+*.exe
+*.war
+null
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
