@@ -1,5 +1,6 @@
 package l22020517.oop
 
+import scala.concurrent.ExecutionContext
 
 sealed trait Msg
 
